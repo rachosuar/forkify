@@ -3,4 +3,4 @@
 Recipe application with custom recipe uploads.
 
 
-https://www.rachosuarprimersitio.netlify.app
+http://www.rachosuarprimersitio.netlify.app
